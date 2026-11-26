@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
+
 # Step 1: add your .env file here (on the next line), so git never pushes your API key
+.env
